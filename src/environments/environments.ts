@@ -1,4 +1,4 @@
 export const environment = {
-  baseUrl: 'http://localhost:3000',
+  baseUrl: 'nest-backend-authapp.up.railway.app',
   TOKEN: 'TOKEN'
 };
